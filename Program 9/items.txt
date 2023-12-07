@@ -1,0 +1,54 @@
+Call of Duty 1:First person shooter:game:Xbox:6
+Call of Duty 2:First person shooter:game:Xbox:7
+Call of Duty 3:First person shooter:game:Xbox:4
+Call of Duty 1:First person shooter:game:Playstation:6
+Call of Duty 2:First person shooter:game:Playstation:7
+Call of Duty 3:First person shooter:game:Playstation:4
+Call of Duty 1:First person shooter:game:Windows:6
+Call of Duty 2:First person shooter:game:Windows:7
+Call of Duty 3:First person shooter:game:Windows:4
+Call of Duty Black Ops 1:First person shooter:game:Xbox:8
+Call of Duty Black Ops 2:First person shooter:game:Xbox:9
+Call of Duty Black Ops 3:First person shooter:game:Xbox:6
+Among Us:Mystery survival:game:Windows:5
+Among Us:Mystery survival:game:Mac:2
+Headphones:Blutooth:audio:Xbox:3
+Headphones:Blutooth:audio:Playstation:4
+Headphones:Blutooth:audio:Windows:1
+Speakers:Blutooth:audio:Windows:2
+Speakers:Blutooth:audio:Mac:9
+Speakers:Wired:audio:Xbox:6
+Speakers:Wired:audio:Playstation:8
+Speakers:Wired:audio:Mac:1
+Headphones:Wired:audio:Windows:5
+Headphones:Wired:audio:Mac:3
+Xbox:Gaming System:console:Xbox:10
+Xbox 360:Gaming System:console:Xbox:10
+Xbox One:Gaming System:console:Xbox:7
+Xbox X:Gaming System:console:Xbox:10
+Playstation:Gaming System:console:Playstation:7
+Playstation 2:Gaming System:console:Playstation:8
+Playstation 3:Gaming System:console:Playstation:6
+Playstation 4:Gaming System:console:Playstation:10
+Playstation 5:Gaming System:console:Playstation:9
+Spore:Alien Sci-Fi:game:Windows:8
+Catz 2:These cats are alive and talking!:game:Nintendo:4
+NBA 2k20:Its sports number 20 woohoo:game:Xbox:1
+Bioshock Infinite:Best plot twist:game:Playstation:10
+Zoombinis:an educational video game full of puzzles for small children:game:computer:6
+Yooka-Laylee:an indie platform game:game:computer:8
+Uncharted:an action-adventure series starring a man on a quest to find lost treasure:game:playstation:7
+Tekken:a 1 v 1 fighting game:game:playstation:8
+Sims:life simulation game where you can create one or more people and control their life:game:computer:9
+RAM:random access memory -- used for playing video games:hardware:computer:10
+Pokemon Go:an AR game for the phone where you walk around and catch Pokemon in real life:game:phone:10
+Oregon Trail:educational game about guiding a group of settlers from Missouri to Oregon in 1848:game:computer:10
+nintendogs:real-time pet simulation game where you can take care of several dogs:game:nintendo:9
+Lego Star Wars:action-adventure where you play in lego environments as lego characters from the Star Wars films:game:xbox:10
+Katamari Damacy:puzzle game where you roll small objects together in a ball and roll into increasingly larger object:game:playstation:10
+Just Dance:motion based rhythm game. Mirror the moves seen on TV:game:nintendo:10
+Angry Birds:a casual puzzle video game where you slingshot birds into structures or pigs:game:phone:9
+24:a third person shooter based off the hit television series 24:game:playstation:5
+Quiplash:party game for 3-8 players (and an audience) where people try to think up witty answers to prompts:game:computer:10
+
+
