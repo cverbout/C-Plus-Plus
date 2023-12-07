@@ -24,7 +24,7 @@ char menu()
 		 << "*~~~~~~~~~~~~~~~~~~~~~~~~~~~~*" << endl
 		 << "* d) Search for difficulty   *" << endl
 		 << "*~~~~~~~~~~~~~~~~~~~~~~~~~~~~*" << endl
-         << "* e) Edit syntax array       *" << endl
+         	 << "* e) Edit syntax array       *" << endl
 		 << "*~~~~~~~~~~~~~~~~~~~~~~~~~~~~*" << endl
 		 << "* f) Quit                    *" << endl
 		 << "******************************" << endl;
